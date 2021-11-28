@@ -1,6 +1,8 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@misc{ram2021rpvio,
+      title={RP-VIO: Robust Plane-based Visual-Inertial Odometry for Dynamic Environments}, 
+      author={Karnik Ram and Chaitanya Kharyal and Sudarshan S. Harithas and K. Madhava Krishna},
+      year={2021},
+      eprint={2103.10400},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
 }
